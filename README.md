@@ -51,7 +51,7 @@ docker build -t grgu-nginx .
 
 docker run -d -p 8080:80 grgu-nginx
 
-<img width="1552" height="97" alt="изображение" src="https://github.com/user-attachments/assets/8b48709d-7be5-41a8-ba29-4275f2d900b3" />
+<img width="997" height="59" alt="изображение" src="https://github.com/user-attachments/assets/463023ab-eb21-41ec-b286-89ad730a2160" />
 
 
 8. Проверка
@@ -62,7 +62,7 @@ http://localhost:8080
 
 На странице отображается текст: GRGU
 
-<img width="997" height="59" alt="изображение" src="https://github.com/user-attachments/assets/463023ab-eb21-41ec-b286-89ad730a2160" />
+<img width="997" height="560" alt="изображение" src="https://github.com/user-attachments/assets/39d605af-648c-4942-87f8-375f7b05bff7" />
 
 
 Работа с Git
@@ -76,5 +76,6 @@ git commit -m "123"
 git push origin dev
 
 <img width="997" height="556" alt="изображение" src="https://github.com/user-attachments/assets/a9613776-bb36-4f76-86aa-6a0e024a72da" />
+
 
 
