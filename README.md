@@ -1,10 +1,10 @@
 1. Git
-• Проверка версии:git -v
+Проверка версии:git -v
 git version 2.45.1.windows.1
 
 2. Клонирование репозитория
 
-• Команда:git clone https://github.com/kronusoff/nginx-grgu.git
+Команда:git clone https://github.com/kronusoff/nginx-grgu.git
 cd nginx-grgu
 
 ---
@@ -51,4 +51,5 @@ http://localhost:8080
 git checkout -b dev
 git add .
 git commit -m "123"
+
 git push origin dev
